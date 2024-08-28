@@ -1,1 +1,2 @@
 # Odins_Recipes
+Hello world, this project serves as the first in my path to completing The Odin Project and will demonstrate the fundamentals of using the CLI, GitHub and HTML as well as my text editor of choice, VSCode.
